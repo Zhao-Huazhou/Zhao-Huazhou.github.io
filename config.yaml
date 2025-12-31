@@ -14,6 +14,16 @@ params:
   TocOpen: false
   assets:
     favicon: "/favicon.ico"
+  profileMode:
+    enabled: true
+    title: "赵华洲"
+    subtitle: "AI 产品经理"
+    imageUrl: "/avatar.png"     # 可选：放到 static/avatar.png
+    buttons:
+      - name: "文章"
+        url: "/posts/"
+      - name: "关于"
+        url: "/about/"
 
 menu:
   main:
