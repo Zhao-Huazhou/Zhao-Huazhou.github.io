@@ -12,6 +12,8 @@ params:
   ShowCodeCopyButtons: true
   ShowToc: true
   TocOpen: false
+  assets:
+    favicon: "/favicon.ico"
 
 menu:
   main:
