@@ -1,5 +1,6 @@
 baseURL: "https://aidenzhao.site/"
 languageCode: "zh-cn"
+defaultContentLanguage: "zh"
 title: "Aiden Zhao"
 theme: "PaperMod"
 
@@ -22,17 +23,20 @@ params:
     buttons:
       - name: "文章"
         url: "/posts/"
-      - name: "关于"
-        url: "/about/"
+      - name: "随记"
+        url: "/notes/"
 
 menu:
   main:
     - name: "文章"
       url: "/posts/"
       weight: 1
+    - name: "随记"
+      url: "/notes/"
+      weight: 2
     - name: "标签"
       url: "/tags/"
-      weight: 2
+      weight: 3
     - name: "关于"
       url: "/about/"
-      weight: 3
+      weight: 4

@@ -1,0 +1,41 @@
+- id: home
+  translation: "首页"
+
+- id: posts
+  translation: "文章"
+
+- id: read_more
+  translation: "继续阅读"
+
+- id: toc
+  translation: "目录"
+
+- id: translations
+  translation: "翻译"
+
+- id: search
+  translation: "搜索"
+
+- id: archives
+  translation: "归档"
+
+- id: tags
+  translation: "标签"
+
+- id: categories
+  translation: "分类"
+
+- id: prev_page
+  translation: "上一页"
+
+- id: next_page
+  translation: "下一页"
+
+- id: copy
+  translation: "复制"
+
+- id: copied
+  translation: "已复制"
+
+- id: edit_post
+  translation: "编辑本文"
