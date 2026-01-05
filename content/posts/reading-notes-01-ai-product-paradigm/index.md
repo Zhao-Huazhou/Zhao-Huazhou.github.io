@@ -9,7 +9,9 @@ tags: ["Reading Notes", "产品", "AI"]
 
 *Rupesh Agarwal｜前 Zalando 产品负责人*
 
-![fig-1](fig-1.webp)
+<a href="https://www.bestblogs.dev/video/5c20e7b" target="_blank" rel="noopener noreferrer">
+  <img src="fig-1.webp" alt="Rupesh Agarwal 关于 AI 产品范式的视频截图">
+</a>
 
 **传统 PM 经验在 AI 场景下可能整体失效。**
 
@@ -81,7 +83,9 @@ tags: ["Reading Notes", "产品", "AI"]
 
 *清华大学教授，智谱 AI 首席科学家*
 
-![fig-2](fig-2.webp)
+<a href="https://weibo.com/2126427211/5247011059141988" target="_blank" rel="noopener noreferrer">
+  <img src="fig-2.webp" alt="唐杰关于大模型的微博原文截图">
+</a>
 
 结合我目前的实际工作，对其中几个**对我价值极高的判断**做了整理与提炼：
 
@@ -97,7 +101,9 @@ tags: ["Reading Notes", "产品", "AI"]
 
 ## #3 MiniMax 创始人闫俊杰 × 罗永浩
 
-![fig-3](fig-3.webp)
+<a href="https://www.bilibili.com/video/BV11NmtBzE36" target="_blank" rel="noopener noreferrer">
+  <img src="fig-3.webp" alt="罗永浩对话 MiniMax 创始人闫俊杰的视频截图">
+</a>
 
 开头前半小时里，有两段话让我很受启发：
 
@@ -109,7 +115,9 @@ tags: ["Reading Notes", "产品", "AI"]
 
 ## #4 任正非：要支持美国科技文明的发展
 
-![fig-4](fig-4.webp)
+<a href="https://finance.sina.com.cn/hy/hyjz/2025-12-05/doc-infztptz9571666.shtml" target="_blank" rel="noopener noreferrer">
+  <img src="fig-4.webp" alt="新浪财经关于任正非的报道截图">
+</a>
 
 美国以硅谷为代表的软件创新依然处于全球领先地位，而中国以深圳为代表的硬件创新同样令全球瞩目。**从长期看，全球化合作确实是理性意义上的最优解**。
 
