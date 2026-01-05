@@ -10,3 +10,9 @@ Thumbs.db
 
 # VSCode
 .vscode/
+
+# Hugo site internal link graph
+# graph.mmd is the structural source of truth (tracked)
+# graph.svg and other artifacts are view-only (ignored)
+tools/site-graph/out/*
+!tools/site-graph/out/graph.mmd
