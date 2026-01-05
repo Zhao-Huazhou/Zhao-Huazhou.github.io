@@ -49,3 +49,7 @@ tags: ["创新", "商业"]
 > The punchline isn't "never innovate". It's "innovate only where you're uniquely paid to innovate." Everything else should default to boring, because boring has known failure modes.
 >
 > 关键不在于“永远不要创新”，而在于“只在那些你因创新而获得独特报酬的领域进行创新”。其他一切都应该回归平庸，因为平庸的失败模式是众所周知的。
+
+## 延伸阅读
+
+- [《在中国，哪些 AI 创新路径更可能落地》]({{< ref "notes/ai-ideas-that-can-land-in-china/index.md" >}})

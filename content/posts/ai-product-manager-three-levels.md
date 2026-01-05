@@ -51,9 +51,9 @@ tags: ["AI", "产品经理"]
 只要效果还能通过调 Prompt、换模型来兜住，工程层面的问题就可以被暂时回避。
 
 此外，应用层停滞不前，往往源于对 AI 不确定性的错误预期。  
-我在 [Reading Notes #1]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}}) 中曾记录过一条“人工智能时代需要反思的经典产品规则”，有兴趣的读者可以前往了解。
+我在 [Reading Notes #1]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}}) 中记录过一条[“人工智能时代需要反思的经典产品规则”]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}}#classic-product-rules-to-rethink-in-AI-era)，有兴趣的读者可以前往了解。
 
-## 第三层：AI 工程化层
+## 第三层：AI 工程化层 {#ai-engineering-layer}
 
 一旦目标从“能不能用”变成**持续优化业务 KPI**，问题就不可避免地会落到这一层：
 

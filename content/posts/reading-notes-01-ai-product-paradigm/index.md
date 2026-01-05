@@ -5,7 +5,7 @@ draft: false
 tags: ["Reading Notes", "产品", "AI"]
 ---
 
-## #1 人工智能时代需要反思的经典产品规则
+## #1 人工智能时代需要反思的经典产品规则{#classic-product-rules-to-rethink-in-AI-era}
 
 *Rupesh Agarwal｜前 Zalando 产品负责人*
 
