@@ -9,7 +9,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 *Rupesh Agarwal｜前 Zalando 产品负责人*
 
-![fig-1](fig-1.jpg)
+![fig-1](fig-1.webp)
 
 **传统 PM 经验在 AI 场景下可能整体失效。**
 
@@ -81,7 +81,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 *清华大学教授，智谱 AI 首席科学家*
 
-![fig-2](fig-2.png)
+![fig-2](fig-2.webp)
 
 结合我目前的实际工作，对其中几个**对我价值极高的判断**做了整理与提炼：
 
@@ -97,7 +97,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 ## #3 MiniMax 创始人闫俊杰 × 罗永浩
 
-![fig-3](fig-3.jpg)
+![fig-3](fig-3.webp)
 
 开头前半小时里，有两段话让我很受启发：
 
@@ -109,7 +109,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 ## #4 任正非：要支持美国科技文明的发展
 
-![fig-4](fig-4.png)
+![fig-4](fig-4.webp)
 
 美国以硅谷为代表的软件创新依然处于全球领先地位，而中国以深圳为代表的硬件创新同样令全球瞩目。**从长期看，全球化合作确实是理性意义上的最优解**。
 
