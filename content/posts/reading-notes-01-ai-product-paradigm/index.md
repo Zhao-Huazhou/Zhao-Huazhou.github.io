@@ -15,10 +15,9 @@ tags: ["Reading Notes", "产品", "AI"]
 
 **传统 PM 经验在 AI 场景下可能整体失效。**
 
-> Rupesh Agarwal 对 AI 产品范式的总结，主要发生在「如何做 AI 应用」这一层面，  
-> 对应到我在 [AI 应用层]({{< ref "posts/ai-product-manager-three-levels.md" >}}#ai-application-layer) 中对产品职责的划分。
-
 前 Zalando 产品负责人 Rupesh Agarwal 在本视频中概述了产品负责人在向 AI 时代转型时需要做出的十个关键转变：
+
+> 这十个关键转变，尤其可作为我所定义的 [AI 应用层]({{< ref "posts/ai-product-manager-three-levels.md" >}}#ai-application-layer) 产品经理，向 [AI 工程化层]({{< ref "posts/ai-product-manager-three-levels.md" >}}#ai-engineering-layer) 过渡时的参考坐标。
 
 - **转变 1：从确定性到概率性**
 
