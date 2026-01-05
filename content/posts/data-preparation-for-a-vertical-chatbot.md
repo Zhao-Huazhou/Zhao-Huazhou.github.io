@@ -9,7 +9,7 @@ tags: ["AI", "数据工程"]
 
 它并不新颖，也并不复杂，但在真实的业务环境中，非常管用。
 
-如果从产品视角来看，这里的大多数问题，都已经落在我定义的 [AI 工程化层]({{< ref "posts/ai-product-manager-three-levels.md" >}}#ai-engineering-layer)。
+如果从产品视角来看，这里的大多数问题，都已经落在我所定义的 [AI 工程化层]({{< ref "posts/ai-product-manager-three-levels.md" >}}#ai-engineering-layer)。
 
 ---
 
