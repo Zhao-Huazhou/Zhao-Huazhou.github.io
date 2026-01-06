@@ -70,7 +70,7 @@ tags: ["AI", "产品经理"]
 - 能否复制到第二个、第三个业务场景
 
 这些问题，最先体现为**工程问题**，而工程问题，往往从“数据工程”开始显现。  
-我在另一篇文章中记录过一套真实的数据准备与筛选工作流：[关于数据准备的一些经验]({{< ref "posts/data-preparation-for-a-vertical-chatbot.md">}})
+我在另一篇文章中记录过一套真实的数据准备与筛选工作流：[关于数据准备的一些经验]({{< ref "posts/data-preparation-for-a-vertical-chatbot/index.md">}})
 
 在这个阶段，AI 面对的已经不再是“某一次回答准不准”，而是：
 
