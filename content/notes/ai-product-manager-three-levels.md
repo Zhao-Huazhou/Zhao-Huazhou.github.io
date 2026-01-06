@@ -57,6 +57,19 @@ tags: ["AI", "产品经理"]
 此外，应用层停滞不前，往往源于对 AI 不确定性的错误预期。  
 我在 [Reading Notes #1]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}}) 中整理过一条[「人工智能时代需要反思的经典产品规则」]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}}#classic-product-rules-to-rethink-in-AI-era)，正是对这一问题的系统性讨论。
 
+另外需要特别强调的是：**AI 应用 ≠ 互联网应用 + 大模型**
+
+一个常见但危险的误解，是将 AI 应用简单理解为：  
+*“在原有互联网应用之上，接入大模型能力”。*
+
+实际上，AI 应用真正的分水岭，往往出现在**数据层面**——
+
+**为模型准备的数据工程 ≠ 互联网时代的大数据分析**
+
+两者在目标、方法与成功标准上，存在本质差异。
+
+关于这一点，我在 [MiniMax 创始人 闫俊杰 的一次访谈记录]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md">}}#minimax)中，也做过更系统的整理。
+
 ## 第三层：AI 工程化层 {#ai-engineering-layer}
 
 当目标从“AI 能不能用”，转变为**持续优化业务 KPI** 时，问题就不可避免地会落到这一层：

@@ -101,7 +101,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 > 原文链接：[https://weibo.com/2126427211/5247011059141988](https://weibo.com/2126427211/5247011059141988)
 
-## #3 MiniMax 创始人闫俊杰 × 罗永浩
+## #3 MiniMax 创始人闫俊杰 × 罗永浩{#minimax}
 
 <a href="https://www.bilibili.com/video/BV11NmtBzE36" target="_blank" rel="noopener noreferrer">
   <img src="fig-3.webp" alt="罗永浩对话 MiniMax 创始人闫俊杰的视频截图">
