@@ -1,7 +1,7 @@
 ---
 title: "Chatbot 不是把大模型塞进一个老旧的规则引擎里"
-date: 2026-01-06T17:03:00+08:00
-draft: true
+date: 2026-01-06T17:17:00+08:00
+draft: false
 tags: ["随记", "AI", "Chatbot"]
 ---
 

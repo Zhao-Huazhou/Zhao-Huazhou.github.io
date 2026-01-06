@@ -17,7 +17,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 前 Zalando 产品负责人 Rupesh Agarwal 在本视频中概述了产品负责人在向 AI 时代转型时需要做出的十个关键转变：
 
-> 这十个关键转变，尤其可作为我所定义的 [AI 应用层]({{< ref "posts/ai-product-manager-three-levels.md" >}}#ai-application-layer) 产品经理，向 [AI 工程化层]({{< ref "posts/ai-product-manager-three-levels.md" >}}#ai-engineering-layer) 过渡时的参考坐标。
+> 这十个关键转变，尤其可作为我所定义的 [AI 应用层]({{< ref "notes/ai-product-manager-three-levels.md" >}}#ai-application-layer) 产品经理，向 [AI 工程化层]({{< ref "notes/ai-product-manager-three-levels.md" >}}#ai-engineering-layer) 过渡时的参考坐标。
 
 - **转变 1：从确定性到概率性**
 
