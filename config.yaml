@@ -18,7 +18,7 @@ params:
   profileMode:
     enabled: true
     title: "赵华洲"
-    subtitle: "AI 产品 · 工程实践"
+    subtitle: "AI 产品经理"
     imageUrl: "/avatar.png"     # 可选：放到 static/avatar.png
     buttons:
       - name: "文章"
