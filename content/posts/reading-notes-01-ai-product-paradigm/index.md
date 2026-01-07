@@ -115,12 +115,14 @@ tags: ["Reading Notes", "产品", "AI"]
 
 > 原文链接：[https://www.bilibili.com/video/BV11NmtBzE36](https://www.bilibili.com/video/BV11NmtBzE36)
 
-## #4 任正非：要支持美国科技文明的发展
+## #4 任正非：要支持美国科技文明的发展{#renzhengfei}
 
 <a href="https://finance.sina.com.cn/hy/hyjz/2025-12-05/doc-infztptz9571666.shtml" target="_blank" rel="noopener noreferrer">
   <img src="fig-4.webp" alt="新浪财经关于任正非的报道截图">
 </a>
 
 美国以硅谷为代表的软件创新依然处于全球领先地位，而中国以深圳为代表的硬件创新同样令全球瞩目。**从长期看，全球化合作确实是理性意义上的最优解**。
+
+关于在中国环境下，AI 创新究竟有哪些能够真正落地的路径，我在另一篇随记中做过一次更集中的整理与思考：[《在中国，哪些 AI 创新路径更可能落地》]({{< ref "notes/ai-ideas-that-can-land-in-china/index.md" >}})
 
 > 原文链接：[https://finance.sina.com.cn/hy/hyjz/2025-12-05/doc-infztptz9571666.shtml](https://finance.sina.com.cn/hy/hyjz/2025-12-05/doc-infztptz9571666.shtml)

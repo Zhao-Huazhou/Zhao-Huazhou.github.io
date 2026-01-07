@@ -40,3 +40,4 @@ tags: ["随记", "AI", "商业"]
 ## 延伸阅读
 
 - [《创新是一场充满激情的远行，却未必是明智的商业选择》]({{< ref "posts/innovation-is-not-always-a-good-business-choice.md" >}})
+- [《任正非：要支持美国科技文明的发展》]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}}#renzhengfei)
