@@ -9,6 +9,9 @@ params:
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
+  mainSections:
+    - posts
+    - notes
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true

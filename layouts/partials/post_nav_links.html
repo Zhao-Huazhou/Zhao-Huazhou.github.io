@@ -1,0 +1,23 @@
+{{- /* Force prev/next within the same section */ -}}
+{{- $prev := .PrevInSection -}}
+{{- $next := .NextInSection -}}
+
+{{- if or $prev $next }}
+<nav class="paginav">
+  {{- with $prev }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+
+  {{- with $next }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
