@@ -1,0 +1,42 @@
+/* =========================================================
+   ProfileMode：首页个人信息区
+   - 仅影响：姓名（与两行副标题
+   - 目标：建立清晰视觉层级，保持克制与稳定
+   ========================================================= */
+
+/* 姓名：最高层级锚点（保持近黑） */
+.profile .profile_inner > h1 {
+  color: #1E1E1E;
+}
+
+/* 副标题容器：紧跟在 h1 后的 span（作为两行文本的统一样式入口） */
+.profile .profile_inner > h1 + span {
+  display: inline-block;
+  margin-top: 0.35rem;
+  line-height: 1.18;
+  color: #333333;  /* 第一行默认色（深灰） */
+}
+
+/* 两行之间的断行间距（通过 br 控制“呼吸感”） */
+.profile .profile_inner > h1 + span br {
+  display: block;
+  margin-top: 0.4rem;
+}
+
+/* 第一行：职业标签（18px，常规字重；不抢姓名） */
+.profile .profile_inner > h1 + span .hi-line1 {
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.12px;
+  color: inherit; /* 继承容器 #333 */
+}
+
+/* 第二行：定位说明（更弱一档，用于解释“如何创造价值”） */
+.profile .profile_inner > h1 + span .hi-line2 {
+  display: inline-block;
+  margin-top: 0.25rem;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  color: #666666;
+}
