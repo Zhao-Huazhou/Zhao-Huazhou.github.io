@@ -21,7 +21,7 @@ params:
   profileMode:
     enabled: true
     title: "赵华洲"
-    subtitle: "<span class='hi-line1'>AI 产品经理</span><br/><span class='hi-line2'>以工程能力推进业务落地</span>"
+    subtitle: "<span class='hi-line1'>AI 产品经理</span><br/><span class='hi-line2'>以工程实践推进业务落地</span>"
     imageUrl: "/avatar.png"     # 可选：放到 static/avatar.png
     buttons:
       - name: "文章"
