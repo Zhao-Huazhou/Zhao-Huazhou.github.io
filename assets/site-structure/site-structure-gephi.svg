@@ -1,118 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="177.0"
+<svg contentScriptType="text/ecmascript" width="862.3116"
      xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
      contentStyleType="text/css"
-     viewBox="-81.000000 -50.000000 177.000000 128.000000" height="128.0"
+     viewBox="-550.261353 -313.000000 862.311584 652.000000" height="652.0"
      preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
      version="1.1">
     <g id="edges">
         <path stroke-linecap="round" fill="none"
               class="id_Ne000fcda21 id_N6f056b8004"
-              d="M 58.660255,61.797592 A 60.724434,60.724434 0,0 1,82.260704,8.172503"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              d="M -370.654816,88.203369 A 217.999691,217.999691 0,0 1,-327.524109,304.169098"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
         <path stroke-linecap="round" fill="none"
               class="id_Ne000fcda21 id_N10154a9e49"
-              d="M 52.182137,67.571449 A 76.575302,76.575302 0,0 1,1.958802,12.865920"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              d="M -374.560944,42.852993 A 227.283774,227.283774 0,0 1,-190.115036,-39.626003"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
         <path stroke-linecap="round" fill="none"
-              class="id_N868785f5d6 id_Nce81f5d37d"
-              d="M -31.029152,51.261654 A 45.860111,45.860111 0,0 1,-67.199158,35.037918"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_N868785f5d6 id_N10154a9e49"
-              d="M -23.261808,41.227867 A 45.658463,45.658463 0,0 1,-10.311906,7.934426"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_N509e8a98c6 id_N868785f5d6"
-              d="M -69.014702,-23.290119 A 76.683029,76.683029 0,0 1,-22.606853,38.163078"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_N509e8a98c6 id_N10154a9e49"
-              d="M -68.849365,-26.995359 A 65.698049,65.698049 0,0 1,-8.359694,-9.943221"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              class="id_N509e8a98c6 id_Ne0077ae6c8"
+              d="M 206.143051,57.596676 A 224.798270,224.798270 0,0 1,-0.843871,178.734604"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
         <path stroke-linecap="round" fill="none"
               class="id_N4e55722e29 id_N10154a9e49"
-              d="M 33.274124,-40.197632 A 46.896395,46.896395 0,0 1,11.822586,-5.385393"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              d="M 87.420059,-125.177666 A 210.022371,210.022371 0,0 1,-85.022682,-26.137024"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Nce81f5d37d id_N868785f5d6"
-              d="M -66.383385,26.695400 A 45.860111,45.860111 0,0 1,-29.233912,40.504700"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              class="id_Ne0077ae6c8 id_N10154a9e49"
+              d="M -47.576088,165.195236 A 196.105263,196.105263 0,0 1,-138.731003,21.649822"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nd9b0762f80 id_Nce81f5d37d"
+              d="M -294.228363,-189.385620 A 174.948240,174.948240 0,0 1,-436.663452,-278.819550"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nd9b0762f80 id_N10154a9e49"
+              d="M -235.992859,-180.075851 A 169.201501,169.201501 0,0 1,-147.577896,-83.425346"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nce81f5d37d id_Nd9b0762f80"
+              d="M -428.629669,-297.586151 A 174.948240,174.948240 0,0 1,-279.789429,-219.289566"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
         <path stroke-linecap="round" fill="none"
               class="id_N6f056b8004 id_Ne000fcda21"
-              d="M 90.818031,9.162913 A 60.724434,60.724434 0,0 1,69.001945,63.535076"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              d="M -347.028748,311.155334 A 217.999691,217.999691 0,0 1,-403.300110,98.239876"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
         <path stroke-linecap="round" fill="none"
               class="id_N10154a9e49 id_Ne000fcda21"
-              d="M 9.600441,2.803822 A 76.575302,76.575302 0,0 1,58.376030,58.807144"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              d="M -168.730667,7.917006 A 227.283774,227.283774 0,0 1,-359.746552,73.798950"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
         <path stroke-linecap="round" fill="none"
-              class="id_N10154a9e49 id_N868785f5d6"
-              d="M 1.181360,9.944406 A 45.658463,45.658463 0,0 1,-12.501400,42.947456"
-              stroke="#000000" stroke-width="1.0" stroke-opacity="0.8"/>
+              class="id_N10154a9e49 id_Ne0077ae6c8"
+              d="M -95.546997,-4.555027 A 196.105263,196.105263 0,0 1,-24.790035,150.086945"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_N10154a9e49 id_Nd9b0762f80"
+              d="M -183.757813,-50.957809 A 169.201501,169.201501 0,0 1,-260.072296,-157.447266"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="0.6"/>
     </g>
     <g id="arrows">
-        <polyline fill="#000000" fill-opacity="0.8"
+        <polyline fill="#000000" fill-opacity="0.6"
                   class="id_Ne000fcda21 id_N6f056b8004"
-                  points="84.772354,6.531889 83.081009,9.428329 81.440399,6.916679"
+                  points="-328.629944,306.957855 -328.918488,303.616180 -326.129730,304.722015"
                   stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
+        <polyline fill="#000000" fill-opacity="0.6"
                   class="id_Ne000fcda21 id_N10154a9e49"
-                  points="1.506138,9.900268 3.441628,12.639588 0.475975,13.092252"
+                  points="-187.151917,-39.157063 -190.349503,-38.144444 -189.880569,-41.107563"
                   stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
-                  class="id_N868785f5d6 id_Nce81f5d37d"
-                  points="-68.902824,32.568604 -65.964500,34.186085 -68.433815,35.889751"
+        <polyline fill="#000000" fill-opacity="0.6"
+                  class="id_N509e8a98c6 id_Ne0077ae6c8"
+                  points="-3.831251,178.459717 -0.706428,177.240921 -0.981316,180.228287"
                   stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
-                  class="id_N868785f5d6 id_N10154a9e49"
-                  points="-7.932868,6.106810 -9.398098,9.123944 -11.225714,6.744906"
-                  stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
-                  class="id_N509e8a98c6 id_N868785f5d6"
-                  points="-22.479588,41.160378 -24.105505,38.226711 -21.108206,38.099445"
-                  stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
-                  class="id_N509e8a98c6 id_N10154a9e49"
-                  points="-6.431166,-7.645226 -9.508691,-8.978957 -7.210696,-10.907485"
-                  stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
+        <polyline fill="#000000" fill-opacity="0.6"
                   class="id_N4e55722e29 id_N10154a9e49"
-                  points="9.093663,-4.139205 11.199491,-6.749854 12.445680,-4.020932"
+                  points="-88.008179,-26.431610 -84.875389,-27.629774 -85.169975,-24.644274"
                   stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
-                  class="id_Nce81f5d37d id_N868785f5d6"
-                  points="-27.449879,42.916592 -30.439859,41.396717 -28.027964,39.612682"
+        <polyline fill="#000000" fill-opacity="0.6"
+                  class="id_Ne0077ae6c8 id_N10154a9e49"
+                  points="-138.676407,18.650320 -137.231247,21.677116 -140.230759,21.622524"
                   stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
+        <polyline fill="#000000" fill-opacity="0.6"
+                  class="id_Nd9b0762f80 id_Nce81f5d37d"
+                  points="-437.975006,-281.517670 -435.314392,-279.475311 -438.012512,-278.163788"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.6"
+                  class="id_Nd9b0762f80 id_N10154a9e49"
+                  points="-147.022537,-80.477203 -149.051971,-83.147667 -146.103821,-83.703026"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.6"
+                  class="id_Nce81f5d37d id_Nd9b0762f80"
+                  points="-278.375763,-216.643524 -281.112457,-218.582733 -278.466400,-219.996399"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.6"
                   class="id_N6f056b8004 id_Ne000fcda21"
-                  points="66.517746,65.216965 68.160995,62.292976 69.842880,64.777176"
+                  points="-402.280212,95.418564 -401.889465,98.749832 -404.710754,97.729919"
                   stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
+        <polyline fill="#000000" fill-opacity="0.6"
                   class="id_N10154a9e49 id_Ne000fcda21"
-                  points="58.789806,61.778469 56.890366,59.014034 59.861694,58.600254"
+                  points="-362.686066,73.199539 -359.446838,72.329193 -360.046265,75.268707"
                   stroke="none"/>
-        <polyline fill="#000000" fill-opacity="0.8"
-                  class="id_N10154a9e49 id_N868785f5d6"
-                  points="-14.900497,44.748661 -13.402003,41.747910 -11.600799,44.147003"
+        <polyline fill="#000000" fill-opacity="0.6"
+                  class="id_N10154a9e49 id_Ne0077ae6c8"
+                  points="-25.049372,153.075714 -26.284422,149.957275 -23.295652,150.216614"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.6"
+                  class="id_N10154a9e49 id_Nd9b0762f80"
+                  points="-260.451080,-160.423264 -258.584290,-157.636658 -261.560303,-157.257874"
                   stroke="none"/>
     </g>
     <g id="nodes">
-        <circle fill="#000000" r="8.0" fill-opacity="0.8" class="id_Ne000fcda21"
-                cx="59.893215" cy="69.70201"/>
-        <circle fill="#000000" r="6.0" fill-opacity="0.8" class="id_N6f056b8004"
-                cx="89.795654" cy="3.25066"/>
-        <circle fill="#000000" r="10.0" fill-opacity="0.8"
-                class="id_N10154a9e49" cx="-0.002741488" cy="0.014758242"/>
-        <circle fill="#000000" r="9.0" fill-opacity="0.8" class="id_N868785f5d6"
-                cx="-22.097786" cy="50.152275"/>
-        <circle fill="#000000" r="6.0" fill-opacity="0.8" class="id_Nce81f5d37d"
-                cx="-72.31015" cy="27.629967"/>
-        <circle fill="#000000" r="6.0" fill-opacity="0.8" class="id_N509e8a98c6"
-                cx="-74.63258" cy="-25.397108"/>
-        <circle fill="#000000" r="5.0" fill-opacity="0.8" class="id_N4e55722e29"
-                cx="33.51304" cy="-45.19192"/>
+        <circle fill="#000000" r="30.0" fill-opacity="0.6"
+                class="id_Ne000fcda21" cx="-392.08115" cy="67.20546"/>
+        <circle fill="#000000" r="16.666668" fill-opacity="0.6"
+                class="id_N6f056b8004" cx="-334.7736" cy="322.45087"/>
+        <circle fill="#000000" r="50.0" fill-opacity="0.6"
+                class="id_N10154a9e49" cx="-137.76654" cy="-31.341402"/>
+        <circle fill="#000000" r="10.0" fill-opacity="0.6"
+                class="id_N509e8a98c6" cx="210.55025" cy="48.62023"/>
+        <circle fill="#000000" r="23.333334" fill-opacity="0.6"
+                class="id_Ne0077ae6c8" cx="-27.066425" cy="176.3217"/>
+        <circle fill="#000000" r="10.0" fill-opacity="0.6"
+                class="id_N4e55722e29" cx="92.496704" cy="-133.79321"/>
+        <circle fill="#000000" r="30.0" fill-opacity="0.6"
+                class="id_Nd9b0762f80" cx="-264.23895" cy="-190.18317"/>
+        <circle fill="#000000" r="16.666668" fill-opacity="0.6"
+                class="id_Nce81f5d37d" cx="-445.26138" cy="-296.5072"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="14" x="-392.08115" y="70.43202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_Ne000fcda21">
+            在中国，哪些 AI 创新路径更可能落地
+        </text>
+        <text font-size="14" x="-334.7736" y="325.67743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_N6f056b8004">
+            创新是一场充满激情的远行，却未必是...
+        </text>
+        <text font-size="14" x="-137.76654" y="-28.374605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_N10154a9e49">
+            Reading Notes #01...
+        </text>
+        <text font-size="14" x="210.55025" y="51.860466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_N509e8a98c6">
+            Chatbot 不是把大模型塞进一...
+        </text>
+        <text font-size="14" x="-27.066425" y="179.56194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_Ne0077ae6c8">
+            从第一性原理出发，推演一款车主 C...
+        </text>
+        <text font-size="14" x="92.496704" y="-130.56665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_N4e55722e29">
+            教育不是注满一桶水，而是点燃一把火
+        </text>
+        <text font-size="14" x="-264.23895" y="-186.9566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_Nd9b0762f80">
+            AI 产品经理三层级
+        </text>
+        <text font-size="14" x="-445.26138" y="-293.26697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="宋体" class="id_Nce81f5d37d">
+            我做了一个垂直应用的 Chatbo...
+        </text>
     </g>
 </svg>
