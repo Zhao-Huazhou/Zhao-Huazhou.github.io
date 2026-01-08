@@ -81,7 +81,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 > 原文链接：[https://www.bestblogs.dev/video/5c20e7b](https://www.bestblogs.dev/video/5c20e7b)
 
-## #2 唐杰：谈 2025 年对大模型的看法
+## #2 唐杰：谈 2025 年对大模型的看法{#llm-in-2025}
 
 *清华大学教授，智谱 AI 首席科学家*
 
