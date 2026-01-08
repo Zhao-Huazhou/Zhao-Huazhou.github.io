@@ -17,7 +17,7 @@ showtoc: false
   <img src="mermaid-diagram.webp" alt="车主 Chatbot 的实现路径推演示意图">
 </a>
 <div style="text-align: center;">
-  <small>从第一性原理出发，对车主 Chatbot 实现路径的整体推演</small>
+  <small>从第一性原理出发，对车主 Chatbot 实现路径的推演</small>
 </div>
 
 ## 一、第一性原理
