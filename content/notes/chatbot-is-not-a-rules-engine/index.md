@@ -101,5 +101,4 @@ Chatbot 的核心价值，从来不在于“照着规则走”，而在于**通�
 而在于成为一个由**模型、数据与算力**共同支撑的**超级智能系统**，持续为业务创造增益。
 
 ## 延伸阅读
-- [《AI 产品经理三层级》]({{< ref "posts/ai-product-manager-three-levels/index.md" >}})
-- [《Reading Notes #01｜AI 产品范式》]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}})
+- [《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "notes/first-principles-chatbot-implementation-path/index.md" >}})
