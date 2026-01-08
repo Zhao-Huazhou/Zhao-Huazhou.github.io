@@ -99,6 +99,8 @@ tags: ["Reading Notes", "产品", "AI"]
 
 - 我一直认为领域大模型就是个伪命题，都agi了哪有什么domain-specific agi……简而言之，领域的数据、流程、agent数据慢慢的都会进入主模型。
 
+基于上述观点，我也做了一次具体推演，整理成一篇[《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "notes/first-principles-chatbot-implementation-path/index.md" >}})，感兴趣的读者可以前往了解。
+
 > 原文链接：[https://weibo.com/2126427211/5247011059141988](https://weibo.com/2126427211/5247011059141988)
 
 ## #3 MiniMax 创始人闫俊杰 × 罗永浩{#minimax}
@@ -112,6 +114,8 @@ tags: ["Reading Notes", "产品", "AI"]
 1. 随着 AI 能力不断增强，产品经理也可以参与原型开发，开发者也可以提出更多创意想法。**不论是产品经理、开发还是算法工程师，彼此之间的边界都会逐渐变得模糊**。区别只在于不同阶段由不同角色主导：在底层算法阶段，由算法主导，但产品和开发也可以参与；在头脑风暴阶段，由产品经理主导；而在真正进入工程落地时，则由开发主导，但大家也都可以参与进来。只是在不同的阶段，大家的角色会发生变化。我认为这是一种更和谐、上限也更高的协作方式。
 
 2. **我们不应该将 AI 行业简单视为互联网行业的延续**，因此也不用太在意，比如说在移动互联网时代，大家是怎么来分工的。
+
+关于 AI 产品经理的定位，我此前写过一篇[《AI 产品经理三层级》]({{< ref "posts/ai-product-manager-three-levels/index.md" >}})，这里不再展开。
 
 > 原文链接：[https://www.bilibili.com/video/BV11NmtBzE36](https://www.bilibili.com/video/BV11NmtBzE36)
 
