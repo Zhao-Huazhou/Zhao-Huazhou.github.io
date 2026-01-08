@@ -6,12 +6,19 @@ tags: ["随记", "Chatbot", "第一性原理"]
 showtoc: false
 ---
 
+*本文更多是一种思考过程的记录，而非已经被完整验证的结论。*
+
 ## 背景
 
 结合之前在微博上看到的智谱 AI 首席科学家唐杰的分享[「谈 2025 年对大模型的看法」]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md" >}}#llm-in-2025)，  
 我尝试从第一性原理出发，推演如果从零开始做一款车主 Chatbot，在业务落地层面可能要经过哪些关键路径。
 
-*本文更多是一种思考过程的记录，而非已经被完整验证的结论。*
+<a href="mermaid-diagram.webp" target="_blank" rel="noopener">
+  <img src="mermaid-diagram.webp" alt="车主 Chatbot 的实现路径推演示意图">
+</a>
+<div style="text-align: center;">
+  <small>从第一性原理出发，对车主 Chatbot 实现路径的整体推演</small>
+</div>
 
 ## 一、第一性原理
 
@@ -95,4 +102,4 @@ showtoc: false
 
 这些思考目前大多还停留在纸面上。
 
-但它或许指向了一条更接近 AI 本质的实现路径。
+但它或许指向了一条更接近大模型本质的实现路径。
