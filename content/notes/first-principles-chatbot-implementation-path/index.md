@@ -2,7 +2,7 @@
 title: "从第一性原理出发，推演一款车主 Chatbot 的实现路径"
 date: 2026-01-08T13:35:00+08:00
 draft: false
-tags: ["随记", "Chatbot", "第一性原理"]
+tags: ["随记", "Chatbot", "第一性原理", "AI"]
 showtoc: false
 ---
 
