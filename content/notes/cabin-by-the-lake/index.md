@@ -1,5 +1,5 @@
 ---
-title: " OpenAI 想做的，是一间「湖畔小屋」"
+title: "OpenAI 想做的，是一间「湖畔小屋」"
 date: 2026-01-04T15:52:00+08:00
 draft: false
 tags: ["随记"]
