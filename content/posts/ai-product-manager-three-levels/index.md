@@ -88,9 +88,10 @@ AI 应用真正的分水岭，往往首先出现在 **数据** 层面——
 
 从这一差异也可以观察到，AI 应用与互联网应用在运行机制上存在更为本质的不同。
 
-也正因如此，**AI 时代并不能简单沿用互联网时代的组织分工方式**。
-
+也正因如此，**AI 时代并不能简单沿用互联网时代的组织分工方式**。  
 关于这一点，我在 [MiniMax 创始人闫俊杰 x 罗永浩]({{< ref "posts/reading-notes-01-ai-product-paradigm/index.md">}}#minimax) 的访谈记录中，也做过一些整理。
+
+而关于互联网思维如何在 AI 时代继续适用，我写过一篇[《从北极星指标出发，分析车主 Chatbot 的现实业务落地》]({{< ref "posts/from-north-star-metrics-to-chatbot-business-reality/index.md" >}})，尝试从**提升用户互动频次与停留时长**这一北极星指标出发，梳理了一版阶段性的产品设计策略，感兴趣的读者可以前往了解。
 
 ## 第三层：AI 工程化层 {#ai-engineering-layer}
 

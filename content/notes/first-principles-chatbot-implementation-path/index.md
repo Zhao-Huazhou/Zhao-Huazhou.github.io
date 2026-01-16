@@ -107,3 +107,6 @@ showtoc: false
 这些思考目前大多还停留在纸面上。
 
 但它或许指向了一条更接近大模型本质的实现路径。
+
+## 延伸阅读
+- [《从北极星指标出发，分析车主 Chatbot 的现实业务落地》]({{< ref "posts/from-north-star-metrics-to-chatbot-business-reality/index.md" >}})

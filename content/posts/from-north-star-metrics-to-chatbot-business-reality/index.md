@@ -17,6 +17,8 @@ tags: ["Chatbot", "AI", "产品", "北极星指标"]
 
 基于这一判断，本文将聚焦**业务视角下 Chatbot 应优先完成的关键事项**，尝试厘清阶段性目标、产品定位以及更现实的落地路径。
 
+结合我对“AI 产品经理”的理解，这里的讨论基本落在我所定义的 [AI 应用层]({{< ref "posts/ai-product-manager-three-levels/index.md" >}}#ai-application-layer)。
+
 ---
 
 ## 一、核心判断
@@ -200,3 +202,5 @@ tags: ["Chatbot", "AI", "产品", "北极星指标"]
 
 这是一种更偏向**稳步推进与持续验证**的业务导向方式，也为后续能力升级预留了空间。
 
+## 延伸阅读
+- [《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "notes/first-principles-chatbot-implementation-path/index.md" >}})
