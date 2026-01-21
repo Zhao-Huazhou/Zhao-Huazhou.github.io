@@ -99,7 +99,7 @@ tags: ["Reading Notes", "产品", "AI"]
 
 - 我一直认为领域大模型就是个伪命题，都agi了哪有什么domain-specific agi……简而言之，领域的数据、流程、agent数据慢慢的都会进入主模型。
 
-基于上述观点，我也做了一次具体推演，整理成一篇[《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "notes/first-principles-chatbot-implementation-path/index.md" >}})，感兴趣的读者可以前往了解。
+基于上述观点，我也做了一次具体推演，整理成一篇[《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "posts/first-principles-chatbot-implementation-path/index.md" >}})，感兴趣的读者可以前往了解。
 
 > 原文链接：[https://weibo.com/2126427211/5247011059141988](https://weibo.com/2126427211/5247011059141988)
 

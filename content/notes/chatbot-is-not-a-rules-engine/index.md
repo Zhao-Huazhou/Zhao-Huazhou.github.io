@@ -101,5 +101,5 @@ Chatbot 的核心价值，从来不在于“照着规则走”，而在于**通�
 而在于成为一个由**模型、数据与算力**共同支撑的**超级智能系统**，持续为业务创造增益。
 
 ## 延伸阅读
-- [《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "notes/first-principles-chatbot-implementation-path/index.md" >}})
+- [《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "posts/first-principles-chatbot-implementation-path/index.md" >}})
 - [《从北极星指标出发，分析车主 Chatbot 的现实业务落地》]({{< ref "posts/from-north-star-metrics-to-chatbot-business-reality/index.md" >}})

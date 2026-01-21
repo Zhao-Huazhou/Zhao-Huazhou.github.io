@@ -203,4 +203,4 @@ tags: ["Chatbot", "AI", "产品", "北极星指标"]
 这是一种更偏向**稳步推进与持续验证**的业务导向方式，也为后续能力升级预留了空间。
 
 ## 延伸阅读
-- [《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "notes/first-principles-chatbot-implementation-path/index.md" >}})
+- [《从第一性原理出发，推演一款车主 Chatbot 的实现路径》]({{< ref "posts/first-principles-chatbot-implementation-path/index.md" >}})
