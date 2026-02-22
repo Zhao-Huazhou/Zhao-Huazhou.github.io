@@ -4,6 +4,10 @@ defaultContentLanguage: "zh"
 title: "Aiden Zhao"
 theme: "PaperMod"
 
+author:
+  name: "赵华洲"
+  email: "aiden_zhao@163.com"
+
 params:
   defaultTheme: auto
   ShowReadingTime: false
