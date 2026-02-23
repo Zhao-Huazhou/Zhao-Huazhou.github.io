@@ -5,8 +5,9 @@ title: "Aiden Zhao"
 theme: "PaperMod"
 
 params:
-  name: "赵华洲"
-  email: "aiden_zhao@163.com"
+  author:
+    name: "赵华洲"
+    email: "aiden_zhao@163.com"
   defaultTheme: auto
   ShowReadingTime: false
   ShowShareButtons: false
