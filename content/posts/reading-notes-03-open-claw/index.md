@@ -1,6 +1,6 @@
 ---
 title: "Reading Notes #03｜🦞 OpenClaw（Clawdbot）"
-date: 2026-02-10T11:30:00+08:00
+date: 2026-02-23T11:30:00+08:00
 draft: false
 tags: ["随记", "OpenClaw"]
 ---
