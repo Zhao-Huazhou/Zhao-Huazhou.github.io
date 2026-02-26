@@ -22,7 +22,7 @@ params:
   profileMode:
     enabled: true
     title: "赵华洲"
-    imageUrl: "/avatar.png"     # 可选：放到 static/avatar.png
+    imageUrl: "/avatar.webp"     # 可选：放到 static/avatar.webp
     buttons:
       - name: "文章"
         url: "/posts/"
