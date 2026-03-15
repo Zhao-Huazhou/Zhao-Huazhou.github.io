@@ -94,6 +94,12 @@ Brave Search 是给 🦞 用的 Web Search 工具，每个月都有免费额度�
 
 不要用 OpenClaw 内置的飞书 channel，用飞书官方插件，体验真的很赞。
 
+在命令行终端中，执行以下安装指令。若执行命令行出错，可在命令行前增加 sudo 重新执行。
+
+```SHELL
+npx -y @larksuite/openclaw-lark-tools install
+```
+
 直接用 `/feishu auth` 一键完成授权，后续让 OpenClaw 使用飞书云文档、多维表格都畅通无阻。
 
 **参考**：[飞书官方插件文档](https://bytedance.larkoffice.com/docx/MFK7dDFLFoVlOGxWCv5cTXKmnMh)
