@@ -1,6 +1,7 @@
 ---
 title: "如何用一顿火锅的钱，运行一个 7x24 小时帮你干活的 AI 助手"
 date: 2026-03-15T10:30:00+08:00
+author: "Andy"
 draft: false
 tags: ["OpenClaw", "AI"]
 ---
