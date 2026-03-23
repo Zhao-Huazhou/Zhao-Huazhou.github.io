@@ -18,7 +18,7 @@ tags: ["OpenClaw", "AI"]
 
 反复对比之后，我选择了 **火山引擎·香港**：
 - 配置：2核4G
-- 价格：约 ¥99/月
+- 价格：约 ¥87/月
 
 2G 内存虽然更便宜，但实测跑 agent-browser skill 时会爆内存，因此调大了一点内存。
 
@@ -90,14 +90,13 @@ Brave Search 是给 🦞 用的 Web Search 工具，每个月都有免费额度�
 
 ---
 
-## 4. 安装 OpenClaw 飞书官方插件
+## 4. 接入飞书
 
 不要用 OpenClaw 内置的飞书 channel，用飞书官方插件，体验真的很赞。
 
 在命令行终端中，执行以下安装指令。
 
 ```SHELL
-# 安装飞书官方插件
 npx -y @larksuite/openclaw-lark-tools install
 ```
 
@@ -114,7 +113,6 @@ npx -y @larksuite/openclaw-lark-tools install
 ### 5.1 安装 wecom 插件
 
 ``` bash
-# 安装插件
 openclaw plugins install @yanhaidao/wecom
 openclaw plugins enable wecom
 ```
@@ -124,7 +122,6 @@ openclaw plugins enable wecom
 在终端中执行：
 
 ``` bash
-# 添加 IM 渠道
 openclaw channels add
 ```
 
@@ -157,7 +154,6 @@ openclaw channels add
 5.  完成配置后，重启 OpenClaw Gateway：
 
 ``` bash
-# 重启 OpenClaw Gateway
 openclaw gateway restart
 ```
 
@@ -220,7 +216,6 @@ openclaw gateway restart
 **第五步：重启 OpenClaw Gateway**
 
 ``` bash
-# 重启 OpenClaw Gateway
 openclaw gateway restart
 ```
 
@@ -238,7 +233,29 @@ openclaw gateway restart
 - [YanHaidao/wecom](https://github.com/YanHaidao/wecom)
 - [OpenClaw 接入微信、钉钉、飞书、QQ 详细教程来啦！](https://zhuanlan.zhihu.com/p/2013706717012186762)
 
-## 6. 设置 tools.profile 为 full / coding 模式
+## 6. 接入 QQ
+
+1. 安装 OpenClaw 开源社区 QQBot 插件
+
+```bash
+openclaw plugins install @tencent-connect/openclaw-qqbot@latest
+```
+
+2. 前往 [QQ-BOT 龙虾专用入口](https://q.qq.com/qqbot/openclaw/login.html)，扫码登录，创建机器人
+
+3. 配置绑定 QQ 机器人
+
+```bash
+openclaw channels add --channel qqbot --token "YourAPPID:YourAppSecret"
+```
+
+4. 重启 OpenClaw 服务
+
+```bash
+openclaw gateway restart
+```
+
+## 7. 设置 tools.profile 为 full / coding 模式
 
 因为我这是独立隔离的服务器，所以直接省心用 full 模式玩了，谨慎点也可以使用 coding 模式。
 
