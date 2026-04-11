@@ -17,6 +17,13 @@ OpenClaw 输出的 Token 是能够直接操作计算机，执行工作的 CLI �
 
 但它们的共同点，都在于：**Token 本身具备可兑现的价值**。
 
+<figure>
+  <a href="https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650996413&idx=1&sn=6d1db98d86d98df33760ad1b240ff019&poc_token=HJm02Wmjv7kfybW5lTqC0MpqehomhwPPj8RpqJ19" target="_blank">
+    <img src="./token_value.webp" alt="token价值光谱">
+  </a>
+  <figcaption style="text-align: center;">图源：腾讯研究院-Token经济学七问</figcaption>
+</figure>
+
 从这个角度看，NVIDIA 提出的「AI 工厂」概念，其实也是在抽象 AI 应用的本质——  
 **输入电力与数据，输出 Token**；
 
